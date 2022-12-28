@@ -1,0 +1,5 @@
+Video Pre-Work Suite
+
+Video Pre-Work Suite is a suite of tools used for cutting, trimming, finding, and prepping, and staging video assets for large projects, while working with very large raw takes.
+
+Some of its base components are in the form of Python scripts which merely make convenient the repeated invocation of ffmpeg. A GUI is planned to help visualize the job and create arguments for the invocations of ffmpeg.
